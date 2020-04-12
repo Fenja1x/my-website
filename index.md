@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Willkommen auf meiner Webseite
 
 You can use the [editor on GitHub](https://github.com/Fenja1x/my-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
